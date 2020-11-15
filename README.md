@@ -22,4 +22,7 @@
 通过shell，可以对实现的功能进行测试
 
 # :part_alternation_mark:总结
-本项目可以帮助你了解基于龙芯处理器的内核的编写方法
+本项目可以帮助你了解基于龙芯处理器的内核的编写方法，演示如下：
+![img](./img/pic01.jpg)
+![img](./img/pic02.jpg)
+![img](./img/pic03.jpg)
