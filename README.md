@@ -23,6 +23,9 @@
 
 # :part_alternation_mark:总结
 本项目可以帮助你了解基于龙芯处理器的内核的编写方法，演示如下：
+
+---
+
 <img src="./img/pic01.JPG" width = "50%" height = "50%" alt="" align=center />
 
 ---
