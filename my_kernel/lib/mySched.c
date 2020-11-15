@@ -47,9 +47,7 @@ void sched_yield()
         } 
         getProcessStackTop(maxP); 
         spTransfer();
-        //此时已经将sp转到分配的物理页位置，所以执行下面的函数时会把返回地址放在分配的物理页用户栈上
         run_process(maxP);
-        //但是返回后用的栈实际上还是用户栈，所以内核还是存在一些问题
     }
     if(processRunnableListHead == processRunnableListTail)
     {
